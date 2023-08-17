@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: johndoe
-        image: tashikmoin/johndoe-java-microservice:408
+        image: tashikmoin/johndoe-java-microservice:407
         ports:
         - containerPort: 8888
