@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: johndoe
-        image: tashikmoin/johndoe-java-microservice:500
+        image: nginx:latest
         ports:
-        - containerPort: 8888
+        - containerPort: 80
